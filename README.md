@@ -1,0 +1,2 @@
+
+`easy-align-client` is a compilation of examples on how an instance of [easy-align-server](https://github.com/mlndz28/easy-align-server) can be implemented from the client side of a voice alignment and/or statistical data processing application.

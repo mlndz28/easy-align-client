@@ -1,0 +1,5 @@
+*.txt
+*.wav
+*.json
+__pycache__/
+gen/
